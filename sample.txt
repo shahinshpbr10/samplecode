@@ -1,3 +1,5 @@
 hello smaple.txt
 this is samble
 hello bro(master)
+feature add details
+
